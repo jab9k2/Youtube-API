@@ -1,2 +1,2 @@
 # Youtube-API
-Viewing video channel stats
+Plot some basic stats on one of my favorite youtube channels.
